@@ -36,7 +36,15 @@ namespace _01_Giris
             //string kullaniciAdi;
             //Console.WriteLine("İsminiz nedir?");
             //kullaniciAdi = Console.ReadLine();
-            //Console.WriteLine("Hello {0}!", kullaniciAdi;
+            //Console.WriteLine("Hello {0}!", kullaniciAdi);
+            //Console.ReadKey();
+            #endregion
+
+            #region Kullanıcıdan Veri Alma 3. Yöntem
+            //string kullaniciAdi;
+            //Console.WriteLine("İsminiz nedir?");
+            //kullaniciAdi = Console.ReadLine();
+            //Console.WriteLine($"Hello {kullaniciAdi}");
             //Console.ReadKey();
             #endregion
 
