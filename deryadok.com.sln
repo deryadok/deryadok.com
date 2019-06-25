@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_IFYapisi", "03_IFYapisi\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_SwitchCaseYapisi", "04_SwitchCaseYapisi\04_SwitchCaseYapisi.csproj", "{3FD53B5E-5F91-4BFE-A1D8-41999CF947CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_WhileDonguYapisi", "05_WhileDonguYapisi\05_WhileDonguYapisi.csproj", "{0A4B3576-9C12-43E7-A46C-27DC9C24716B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3FD53B5E-5F91-4BFE-A1D8-41999CF947CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FD53B5E-5F91-4BFE-A1D8-41999CF947CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FD53B5E-5F91-4BFE-A1D8-41999CF947CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4B3576-9C12-43E7-A46C-27DC9C24716B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4B3576-9C12-43E7-A46C-27DC9C24716B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4B3576-9C12-43E7-A46C-27DC9C24716B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4B3576-9C12-43E7-A46C-27DC9C24716B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
