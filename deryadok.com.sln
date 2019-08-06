@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.438
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Giris", "01_Giris\01_Giris.csproj", "{15D7ECF8-419D-40C9-BFD7-FB922D0FFACF}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_SwitchCaseYapisi", "04_SwitchCaseYapisi\04_SwitchCaseYapisi.csproj", "{3FD53B5E-5F91-4BFE-A1D8-41999CF947CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_WhileDonguYapisi", "05_WhileDonguYapisi\05_WhileDonguYapisi.csproj", "{0A4B3576-9C12-43E7-A46C-27DC9C24716B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_DoWhileDonguYapisi", "06_DoWhileDonguYapisi\06_DoWhileDonguYapisi.csproj", "{DD8B8A6F-9C73-4950-B421-F64AD426F16F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{0A4B3576-9C12-43E7-A46C-27DC9C24716B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A4B3576-9C12-43E7-A46C-27DC9C24716B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A4B3576-9C12-43E7-A46C-27DC9C24716B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8B8A6F-9C73-4950-B421-F64AD426F16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8B8A6F-9C73-4950-B421-F64AD426F16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8B8A6F-9C73-4950-B421-F64AD426F16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8B8A6F-9C73-4950-B421-F64AD426F16F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
