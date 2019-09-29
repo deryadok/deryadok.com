@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_WhileDonguYapisi", "05_W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_DoWhileDonguYapisi", "06_DoWhileDonguYapisi\06_DoWhileDonguYapisi.csproj", "{DD8B8A6F-9C73-4950-B421-F64AD426F16F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ForDonguYapisi", "07_ForDonguYapisi\07_ForDonguYapisi.csproj", "{1233F6AE-54F2-4A59-B1E6-F02814312015}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{DD8B8A6F-9C73-4950-B421-F64AD426F16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD8B8A6F-9C73-4950-B421-F64AD426F16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD8B8A6F-9C73-4950-B421-F64AD426F16F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1233F6AE-54F2-4A59-B1E6-F02814312015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1233F6AE-54F2-4A59-B1E6-F02814312015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1233F6AE-54F2-4A59-B1E6-F02814312015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1233F6AE-54F2-4A59-B1E6-F02814312015}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

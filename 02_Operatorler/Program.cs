@@ -20,6 +20,21 @@ namespace _02_Operatorler
             //const double PI = 3.14;
             #endregion
 
+            #region Toplama
+            //int x = 10 + 4;
+            //Console.WriteLine(x);
+            #endregion
+
+            #region Çıkarma
+            //int x = 10 - 4;
+            //Console.WriteLine(x);
+            #endregion
+
+            #region Çarpma
+            //int x = 10 * 4;
+            //Console.WriteLine(x);
+            #endregion
+
             #region Bölme
             //int x = 10 / 4;
             //Console.WriteLine(x);
