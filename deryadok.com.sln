@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_JumpingKeywords", "08_Ju
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_MantiksalOperatorler_TernaryIf", "09_MantiksalOperatorler_TernaryIf\09_MantiksalOperatorler_TernaryIf.csproj", "{A8B3E924-1F17-45E0-B4E8-FBC8E30BCFA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Arrays", "10_Arrays\10_Arrays.csproj", "{97508986-F11E-4BBB-A314-9C524E33DC0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A8B3E924-1F17-45E0-B4E8-FBC8E30BCFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8B3E924-1F17-45E0-B4E8-FBC8E30BCFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8B3E924-1F17-45E0-B4E8-FBC8E30BCFA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97508986-F11E-4BBB-A314-9C524E33DC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97508986-F11E-4BBB-A314-9C524E33DC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97508986-F11E-4BBB-A314-9C524E33DC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97508986-F11E-4BBB-A314-9C524E33DC0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
