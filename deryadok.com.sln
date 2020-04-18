@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Arrays", "10_Arrays\10_A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Metotlar_Giris", "11_Metotlar_Giris\11_Metotlar_Giris.csproj", "{03B63393-B75A-40F2-BB33-7B0C72D3A409}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Metotlar", "12_Metotlar\12_Metotlar.csproj", "{27F0C724-A4B2-4F47-AB91-5A7CC931F5BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{03B63393-B75A-40F2-BB33-7B0C72D3A409}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03B63393-B75A-40F2-BB33-7B0C72D3A409}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03B63393-B75A-40F2-BB33-7B0C72D3A409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F0C724-A4B2-4F47-AB91-5A7CC931F5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F0C724-A4B2-4F47-AB91-5A7CC931F5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F0C724-A4B2-4F47-AB91-5A7CC931F5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F0C724-A4B2-4F47-AB91-5A7CC931F5BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
