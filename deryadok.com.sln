@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Metotlar", "12_Metotlar\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_ArrayMetotlar", "13_ArrayMetotlar\13_ArrayMetotlar.csproj", "{FAAC6D5B-D538-41F0-9953-4707ACC8A387}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_StringMetotlar", "14_StringMetotlar\14_StringMetotlar.csproj", "{4540B337-22C5-47DA-BF9F-2A7765AB0EFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{FAAC6D5B-D538-41F0-9953-4707ACC8A387}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAAC6D5B-D538-41F0-9953-4707ACC8A387}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAAC6D5B-D538-41F0-9953-4707ACC8A387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4540B337-22C5-47DA-BF9F-2A7765AB0EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4540B337-22C5-47DA-BF9F-2A7765AB0EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4540B337-22C5-47DA-BF9F-2A7765AB0EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4540B337-22C5-47DA-BF9F-2A7765AB0EFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
