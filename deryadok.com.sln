@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_ArrayMetotlar", "13_Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_StringMetotlar", "14_StringMetotlar\14_StringMetotlar.csproj", "{4540B337-22C5-47DA-BF9F-2A7765AB0EFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_OOP_Kapsulleme(Encapsulation)", "15_OOP_Kapsulleme(Encapsulation)\15_OOP_Kapsulleme(Encapsulation).csproj", "{1880A4E6-4EE8-4724-BFD9-AAE68F685402}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{4540B337-22C5-47DA-BF9F-2A7765AB0EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4540B337-22C5-47DA-BF9F-2A7765AB0EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4540B337-22C5-47DA-BF9F-2A7765AB0EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1880A4E6-4EE8-4724-BFD9-AAE68F685402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1880A4E6-4EE8-4724-BFD9-AAE68F685402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1880A4E6-4EE8-4724-BFD9-AAE68F685402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1880A4E6-4EE8-4724-BFD9-AAE68F685402}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
