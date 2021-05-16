@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_StringMetotlar", "14_Str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_OOP_Kapsulleme(Encapsulation)", "15_OOP_Kapsulleme(Encapsulation)\15_OOP_Kapsulleme(Encapsulation).csproj", "{1880A4E6-4EE8-4724-BFD9-AAE68F685402}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_OOP_PropertyAccessModifiers", "16_OOP_PropertyAccessModifiers\16_OOP_PropertyAccessModifiers.csproj", "{233B05CC-9FE2-4C10-B5FE-F5CE66632A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_OOP_MathLibrary", "16_OOP_MathLibrary\16_OOP_MathLibrary.csproj", "{98EFAE23-F41E-4708-A442-C8534BDB42A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{1880A4E6-4EE8-4724-BFD9-AAE68F685402}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1880A4E6-4EE8-4724-BFD9-AAE68F685402}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1880A4E6-4EE8-4724-BFD9-AAE68F685402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233B05CC-9FE2-4C10-B5FE-F5CE66632A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233B05CC-9FE2-4C10-B5FE-F5CE66632A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233B05CC-9FE2-4C10-B5FE-F5CE66632A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233B05CC-9FE2-4C10-B5FE-F5CE66632A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98EFAE23-F41E-4708-A442-C8534BDB42A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EFAE23-F41E-4708-A442-C8534BDB42A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EFAE23-F41E-4708-A442-C8534BDB42A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EFAE23-F41E-4708-A442-C8534BDB42A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
