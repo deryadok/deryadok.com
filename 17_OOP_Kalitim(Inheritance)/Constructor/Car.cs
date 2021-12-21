@@ -17,5 +17,15 @@ namespace _17_OOP_Kalitim_Inheritance_.Constructor
         //{
         //    Console.WriteLine(message);
         //}
+
+        public Car() : base("Hello vehicle!")
+        {
+            Console.WriteLine("Car constructor çalıştı!");
+        }
+
+        ~Car()
+        {
+            Console.WriteLine("Car objesi yok oldu!");
+        }
     }
 }

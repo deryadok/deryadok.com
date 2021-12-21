@@ -12,5 +12,10 @@ namespace _17_OOP_Kalitim_Inheritance_.Constructor
         {
             Console.WriteLine("Vehicle constructor çalıştı!");
         }
+
+        public Vehicle(string message)
+        {
+            Console.WriteLine(message);
+        }
     }
 }

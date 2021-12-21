@@ -70,10 +70,17 @@ namespace _17_OOP_Kalitim_Inheritance_
 
             //Console.WriteLine("Name : " + cat2.Name + " Age: " + cat2.Age);
 
-            Car car = new Car();
-            //Car car = new Car("Car constructor çalıştı!");
+            GetCar();
+            //Car car = new Car();
+            //Car car = new Car("Hello car!");
 
+            GC.Collect(); //destructor metodun çağrılması için garbadge collector kullanıyoruz.
             Console.ReadKey();
+        }
+
+        private static void GetCar()
+        {
+            Car car = new Car();
         }
     }
 }
