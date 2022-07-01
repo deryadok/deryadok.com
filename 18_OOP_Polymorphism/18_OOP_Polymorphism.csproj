@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1880A4E6-4EE8-4724-BFD9-AAE68F685402}</ProjectGuid>
+    <ProjectGuid>{C284D150-CFD5-45BA-8AC9-764D676BDA41}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_15_OOP_Kapsulleme_Encapsulation_</RootNamespace>
-    <AssemblyName>15_OOP_Kapsulleme%28Encapsulation%29</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <RootNamespace>_18_OOP_Polymorphism</RootNamespace>
+    <AssemblyName>18_OOP_Polymorphism</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -44,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Elma.cs" />
-    <Compile Include="Person.cs" />
+    <Compile Include="BusinessApp\Intern.cs" />
+    <Compile Include="BusinessApp\Manager.cs" />
+    <Compile Include="BusinessApp\Staff.cs" />
+    <Compile Include="BusinessApp\Worker.cs" />
+    <Compile Include="Polymorphism\Animal.cs" />
+    <Compile Include="Polymorphism\Cat.cs" />
+    <Compile Include="Polymorphism\Dog.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
