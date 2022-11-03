@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E54A9BA4-5EA9-4FC6-95D4-36E4A9F2E13F}</ProjectGuid>
+    <ProjectGuid>{7ED54D75-3B9B-4467-8DBE-E16BDC65CFF7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_03_IFYapisi</RootNamespace>
-    <AssemblyName>03_IFYapisi</AssemblyName>
+    <RootNamespace>_21_Deger_Referans_Tipler</RootNamespace>
+    <AssemblyName>21_Deger_Referans_Tipler</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -44,11 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DegerTipler\Coordinate.cs" />
+    <Compile Include="DegerTipler\Days.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
