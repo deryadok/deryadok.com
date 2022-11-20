@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_OOP_Abstract_vs_Interfac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_Deger_Referans_Tipler", "21_Deger_Referans_Tipler\21_Deger_Referans_Tipler.csproj", "{7ED54D75-3B9B-4467-8DBE-E16BDC65CFF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_Static_Class", "22_Static_Class_Generic_Tipler\22_Static_Class.csproj", "{E15BC971-0DCC-4D11-B1BF-95BFE0222722}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{7ED54D75-3B9B-4467-8DBE-E16BDC65CFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ED54D75-3B9B-4467-8DBE-E16BDC65CFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ED54D75-3B9B-4467-8DBE-E16BDC65CFF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E15BC971-0DCC-4D11-B1BF-95BFE0222722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E15BC971-0DCC-4D11-B1BF-95BFE0222722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E15BC971-0DCC-4D11-B1BF-95BFE0222722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E15BC971-0DCC-4D11-B1BF-95BFE0222722}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
