@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{15D7ECF8-419D-40C9-BFD7-FB922D0FFACF}</ProjectGuid>
+    <ProjectGuid>{C68D877C-9459-4E47-9785-82D8FE9BBB76}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01_Giris</RootNamespace>
-    <AssemblyName>01_Giris</AssemblyName>
+    <RootNamespace>_23_Generic_Types</RootNamespace>
+    <AssemblyName>23_Generic_Types</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -44,6 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GenericConstraint\MyGenericClass.cs" />
+    <Compile Include="GenericInheritance\FirstClass.cs" />
+    <Compile Include="GenericInterface\IAdd.cs" />
+    <Compile Include="GenericInterface\IntegerAdd.cs" />
+    <Compile Include="GenericInterface\StringAdd.cs" />
+    <Compile Include="GenericList\MyGenericList.cs" />
+    <Compile Include="GenericMethod\GenericMethodHelper.cs" />
+    <Compile Include="GenericMethod\Mail.cs" />
+    <Compile Include="GenericMethod\SystemMembers.cs" />
+    <Compile Include="MultipleGenericType\MultipleGenericType.cs" />
+    <Compile Include="NonGenericList\MyNongenericList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

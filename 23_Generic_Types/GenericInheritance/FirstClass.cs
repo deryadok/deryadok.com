@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _23_Generic_Types.GenericInheritance
+{
+    internal class FirstClass<T>
+    {
+        public void GetType(T param)
+        {
+            Console.WriteLine("Type : " + param.GetType().Name);
+            Console.WriteLine("BaseType : "  + param.GetType().BaseType.Name);
+            Console.WriteLine();
+        }
+    }
+
+    internal class SecondClass : FirstClass<int>
+    {
+
+    }
+
+    internal class ThirdClass<U> : FirstClass<U>
+    {
+
+    }
+}
