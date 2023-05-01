@@ -31,10 +31,10 @@ namespace _24_Delegate_Event
             myCar.Speed = 50;
             myCar.MaxSpeed = 90;
 
-            myCar.reachedMaxSpeedEvent += myCarHasReacedMaxSpeed;
+            myCar.reachedMaxSpeedEvent += MyCarHasReacedMaxSpeed;
         }
 
-        void myCarHasReacedMaxSpeed(object sender, EventArgs e)
+        void MyCarHasReacedMaxSpeed(object sender, EventArgs e)
         {
             Car currentCar = sender as Car;
             CarEventArgs args = e as CarEventArgs;

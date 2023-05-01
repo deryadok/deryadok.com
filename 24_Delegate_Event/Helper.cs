@@ -10,16 +10,21 @@ namespace _24_Delegate_Event
 
     static class Helper
     {
-        public static MyHandler Hand { get; set; }
+        public static MyHandler Handler { get; set; }
 
         public static void AddMethod(MyHandler myHandler)
         {
-            Hand += myHandler;
+            Handler += myHandler;
+        }
+
+        public static void RemoveMethod(MyHandler myHandler)
+        {
+            Handler -= myHandler;
         }
 
         public static void Invoke()
         {
-            Hand();
+            Handler();
         }
     }
 }

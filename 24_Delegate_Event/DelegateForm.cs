@@ -31,8 +31,9 @@ namespace _24_Delegate_Event
             handler = new MyDelegateHandler(HelloWorld);
 
             Helper.AddMethod(MethodOne);
-            Helper.AddMethod(MethodTwo);
             Helper.AddMethod(MethodThree);
+            Helper.AddMethod(MethodTwo);
+            Helper.RemoveMethod(MethodTwo);
 
             calculatorHandler = new CalculatorHandler(Sum);
             calculatorHandler += Multiple;
@@ -65,10 +66,12 @@ namespace _24_Delegate_Event
         {
             MessageBox.Show("Second Method");
         }
+
         void MethodThree()
         {
             MessageBox.Show("Third Method");
         }
+
         private void btnHandle_Click(object sender, EventArgs e)
         {
             Helper.Invoke();
