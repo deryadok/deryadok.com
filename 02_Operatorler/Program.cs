@@ -45,6 +45,12 @@ namespace _02_Operatorler
             //Console.WriteLine(x);
             #endregion
 
+            #region Arttırma
+            int postfix = 1, prefix = 1;
+            int x = postfix++;
+            int y = ++prefix;
+            #endregion
+
             #region Operatör Önceliği
             //int x = 4 + 3 * 2;
             //Console.WriteLine(x);
