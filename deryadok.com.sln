@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23_Generic_Types", "23_Gene
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_Delegate_Event", "24_Delegate_Event\24_Delegate_Event.csproj", "{52A97E13-E06F-44AA-8A22-9E0DE620D3B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_GirisNew", "01_GirisNew\01_GirisNew.csproj", "{53E2773B-A39E-40EA-A210-68B0F8E01DDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{52A97E13-E06F-44AA-8A22-9E0DE620D3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52A97E13-E06F-44AA-8A22-9E0DE620D3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52A97E13-E06F-44AA-8A22-9E0DE620D3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E2773B-A39E-40EA-A210-68B0F8E01DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E2773B-A39E-40EA-A210-68B0F8E01DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E2773B-A39E-40EA-A210-68B0F8E01DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E2773B-A39E-40EA-A210-68B0F8E01DDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
