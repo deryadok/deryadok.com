@@ -1,11 +1,5 @@
 ﻿using _17_OOP_Kalitim_Inheritance_.Constructor;
-using _17_OOP_Kalitim_Inheritance_.Inheritance;
-using _17_OOP_Kalitim_Inheritance_.NonInheritance;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _17_OOP_Kalitim_Inheritance_
 {

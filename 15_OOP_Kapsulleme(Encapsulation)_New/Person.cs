@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _15_OOP_Kapsulleme_Encapsulation_New
+namespace _15_OOP_Kapsulleme_Encapsulation__New
 {
     class Person
     {

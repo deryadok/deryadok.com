@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _22_Static_Class.Static
+﻿namespace _22_Static_Class.Static
 {
     internal static class StaticCar
     {

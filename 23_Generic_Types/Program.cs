@@ -6,10 +6,6 @@ using _23_Generic_Types.MultipleGenericType;
 using _23_Generic_Types.NonGenericList;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.Remoting.Messaging;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _23_Generic_Types
 {

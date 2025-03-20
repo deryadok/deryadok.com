@@ -1,4 +1,5 @@
-﻿using _15_OOP_Kapsulleme_Encapsulation_New;
+﻿using _15_OOP_Kapsulleme_Encapsulation__New;
+
 
 //Elma elma = new Elma();
 
